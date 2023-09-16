@@ -78,7 +78,8 @@ footer{
     margin: 100px;
     height: 40px;
     align-items: center;
-}
+    columns: 3;
+    }
 /* configuração da pagina de contato*/
 
 figure#contato{
@@ -96,6 +97,7 @@ article#introduction
 article{
     text-align: center;
     text-indent: 20px;
-    background-color: rgb(96, 175, 255);
-    
+    background-color: rgb(176, 168, 245);
+    margin: 10px;
+    height: auto;
 }
