@@ -6,9 +6,9 @@ body{
 figure#logo{
     position: relativa;
     text-align: center;
-    margin-top: -5px;
-    margin-left: -5px;
-    box-shadow: 0px 0px 10px rgba(0, 0, 0, .5);
+    margin-top: auto;
+    margin-left: auto;
+   
 }
 p {
     color: white;
@@ -23,8 +23,8 @@ p {
 
 }
 div#interface {
-    width: 900px;
-    margin: 0px auto 0px auto;
+   
+   
 }
 header#cabecalho {
     
@@ -68,14 +68,16 @@ nav#menu ul{
 }
 footer{
     position: absolute;
-    top: 600px;
-    left: 300px;
-    background-color: black;
+    top: 550px;
+    left: 200px;
+    background-color: rgb(0, 60, 255);
     color: white;
     text-align: center;
     left: 10px;
-    right: 10px;
-    margin: -10px;
+    right:200px;
+    margin: 100px;
+    height: 40px;
+    align-items: center;
 }
 /* configuração da pagina de contato*/
 
